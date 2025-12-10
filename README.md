@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋 I'm Jayamurugan</h1>
+<h1 align="left">Hi I'm Jayamurugan 👋</h1>
 <h3 align="left">🚀 Full Stack (MERN) Developer | Building Production-Ready Web Apps</h3>
 
 ### 👨‍💻 About Me
