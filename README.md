@@ -30,7 +30,10 @@ I love crafting reusable UI components, integrating secure APIs, and optimizing 
 - Built 75% of core frontend modules for a production app  
 - Integrated 25+ secure REST APIs & reduced load time noticeably  
 - Improved mobile responsiveness & accessibility across apps  
-- Fixed 20+ production/QA issues, ensuring smooth deployment  
+- Fixed 20+ production/QA issues, ensuring smooth deployment
+
+**Software Developer  — Looperex Technologies**  
+*Sep 2025 – Present · Tiruchirappalli, India*  
 
 ---
 
