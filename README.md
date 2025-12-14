@@ -18,7 +18,7 @@ I love crafting reusable UI components, integrating secure APIs, and optimizing 
 ### 🛠 Skills
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,redux,next,js,ts,tailwind,html,css,nodejs,express,mongodb,git,github,postman,figma" />
+<img src="https://skillicons.dev/icons?i=react,redux,next,js,ts,tailwind,nodejs,express,mongodb,firebase,git,github,postman,figma" />
 </p>
 
 ---
