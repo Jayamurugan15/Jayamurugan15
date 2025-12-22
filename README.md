@@ -25,6 +25,9 @@ I love crafting reusable UI components, integrating secure APIs, and optimizing 
 
 ### 🧩 Experience
 
+**Software Developer  — Looperex Technologies**  
+*Sep 2025 – Present · Tiruchirappalli, India*
+
 **React.js Developer Intern — Annular Technologies**  
 *May 2025 – Aug 2025 · Chennai, India*  
 - Built 75% of core frontend modules for a production app  
@@ -32,8 +35,11 @@ I love crafting reusable UI components, integrating secure APIs, and optimizing 
 - Improved mobile responsiveness & accessibility across apps  
 - Fixed 20+ production/QA issues, ensuring smooth deployment
 
-**Software Developer  — Looperex Technologies**  
-*Sep 2025 – Present · Tiruchirappalli, India*  
+**Associate Developer Intern — InfoTech Solutions**  
+*Jan 2025 – Mar 2025 · Bangalore, India*   - Remote
+- Implemented user authentication With Nodemailer and JWT.
+- Developed Fully functional Excel file  upload and process the data using the backend, and visualize the data in different Chart format.
+- Gained hands-on experience with Noda Js, MongoDB Atlas, Postman API testing, and version control using Git.
 
 ---
 
