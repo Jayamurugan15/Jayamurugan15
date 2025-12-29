@@ -48,7 +48,7 @@ I love crafting reusable UI components, integrating secure APIs, and optimizing 
 - 🔄 Agile workflows & real-world API collaboration
 - 🎯 Goal: Become a top-tier Full Stack Engineer building scalable SaaS products
 
----
+----
   
 ### 🌐 Socials
 <p align="left">
