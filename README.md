@@ -6,7 +6,7 @@
 Software Developer skilled in building scalable and high-performance web applications using MERN Stack.  
 I love crafting reusable UI components, integrating secure APIs, and optimizing performance to deliver smooth user experiences.
 
-- 🌍 Based in Pattukottai, Tamil Nadu, India
+- 🌍 Based in Tiruchirappalli, Tamil Nadu, India
 - ✉️ You can reach me: **sjmurugan.1505@gmail.com**
 - 🔗 Stay connected: **https://linkedin.com/in/jayamurugans**
 - 🧠 Currently learning: **Mobile App Development + Full Stack**
