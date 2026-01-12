@@ -26,7 +26,7 @@ I love crafting reusable UI components, integrating secure APIs, and optimizing 
 ### 🧩 Experience
 
 **Software Developer  — Looperex Technologies**  
-*Sep 2025 – Present · Tiruchirappalli, India*
+*Sep 2025 – Present · Tiruchirappalli, India* 
 
 **React.js Developer Intern — Annular Technologies**  
 *May 2025 – Aug 2025 · Chennai, India*  
