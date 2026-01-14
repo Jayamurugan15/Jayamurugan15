@@ -36,7 +36,7 @@ I love crafting reusable UI components, integrating secure APIs, and optimizing 
 - Fixed 20+ production/QA issues, ensuring smooth deployment
 
 **Associate Developer Intern — InfoTech Solutions**  
-*Jan 2025 – Mar 2025 · Bangalore, India*   - Remote
+*Jan 2025 – Mar 2025 · Bangalore, India*  - Remote
 - Implemented user authentication With Nodemailer and JWT.
 - Developed Fully functional Excel file  upload and process the data using the backend, and visualize the data in different Chart format.
 - Gained hands-on experience with Noda Js, MongoDB Atlas, Postman API testing, and version control using Git.
