@@ -10,7 +10,6 @@ I love crafting reusable UI components, integrating secure APIs, and optimizing 
 - ✉️ You can reach me: **sjmurugan.1505@gmail.com**
 - 🔗 Stay connected: **https://linkedin.com/in/jayamurugans**
 - 🧠 Currently learning: **Mobile App Development + Full Stack**
-- 🤝 Open to collaborate: **Open Source | SaaS Products | Real-world Web Apps**
 - ⚡ Motto: *“Consistency Matters... Keep Learning”*
 
 ---
