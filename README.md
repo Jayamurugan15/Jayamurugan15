@@ -29,7 +29,7 @@ I love crafting reusable UI components, integrating secure APIs, and optimizing 
 
 **React.js Developer Intern — Annular Technologies**  
 *May 2025 – Aug 2025 · Chennai, India*  
-- Built 75% of core frontend modules for a production app  
+- Built 40% of core frontend modules for a production app  
 - Integrated 25+ secure REST APIs & reduced load time noticeably  
 - Improved mobile responsiveness & accessibility across apps  
 - Fixed 20+ production/QA issues, ensuring smooth deployment
