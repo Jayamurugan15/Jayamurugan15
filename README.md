@@ -9,7 +9,6 @@ I love crafting reusable UI components, integrating secure APIs, and optimizing 
 - 🌍 Based in Tiruchirappalli, Tamil Nadu, India
 - ✉️ You can reach me: **sjmurugan.1505@gmail.com**
 - 🔗 Stay connected: **https://linkedin.com/in/jayamurugans**
-- 🧠 Currently learning: **Mobile App Development + Full Stack**
 - ⚡ Motto: *“Consistency Matters... Keep Learning”*
 
 ---
